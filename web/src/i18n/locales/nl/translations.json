@@ -1,0 +1,493 @@
+{
+    "basic":{
+        "OR":"OF",
+        "Email:":"Email",
+        "password:":"Wachtwoord",
+        "loading":"laden"
+
+    },
+    "buttons":{
+        "watch_timeline": "Bekijk Tijdlijn",
+        "share_story": "deel verhaal",
+        "answer_question":"beantwoord vragen",
+        "condolences":"condoleren",
+        "need_insspiration":"Need inspiration?",
+        "add_date":"Voeg een datum toe",
+        "adjust_media":"Media aanpassen",
+        "add_media":"Media toevoegen",
+        "delete_memory":"Verwijder verhaal",
+        "save_changes":"wijzigingen opslaan",
+        "renew_private_link":"directe link vernieuwen",
+        "skip_add_image" : "Foto later toevoegen",
+        "make_memory":"Maak een herinnering aan",
+        "watch_memory":"Bekijk herinnering",
+        "watch_story":"Bekijk het verhaal",
+        "share_memory":"Deel een herinnering",
+        "overview":"Overzicht",
+        "return":"terugkeren",
+        "home_page":"Ga naar Startpagina",
+        "send":"Verzenden",
+        "log_in":"Inloggen",
+        "change_media":"Wijzig media",
+        "Post":"Plaatsen"
+
+    },
+
+    "menu":{
+        "menu":"menu",
+        "life_moments":"Levensmomenten",
+        "portrait":"Portret",
+        "timeline":"Tijdlijn",        
+        "gallery":"Galerij",
+        "testimonials":"Getuigenissen",
+        "features":"Voordelen",
+        "account":"Account",
+        "howitworks":"Hoe werkt het",
+        "blog":"Blog",
+        "about":"Over ons",
+        "contact":"Contact",
+        "log_in":"Inloggen",
+        "start_now":"Start nu",
+        "start_free":"Start gratis",
+        "sign_in":"Maak account",
+        "settings":"Instellingen",
+        "main_menu":"Hoofdmenu",
+        "page_settings":"Paginabeheer",
+        "share_page":"Pagina Delen",
+        "my_account":"Mijn account",
+        "sign_out":"Uitloggen"
+   
+
+
+    },
+    "words":{
+        "email":"Email",
+        "password":"Wachtwoord",
+        "loginTitle":"Log in",     
+        "login_facebook":"Log in met Facebook",     
+        "login_google":"Log in met Google",     
+        "forgot_password":"Wachtwoord vergeten?",
+        "no_account":"Heb je geen account?",
+        "Log in":"Log in",
+        "read_more":"Lees meer",
+        "sign_up_here":"Maak hier account"
+    },
+
+    "login":{
+        "loginTitle":"Inloggen",     
+        "login_facebook":"Inloggen met Facebook",     
+        "login_google":"Inloggen met Google",     
+        "forgot_password":"Wachtwoord vergeten?",
+        "no_account":"Hebt u nog geen account?",
+        "Log_in":"inloggen",
+        "sign_up_here":"Maak account"
+
+    },
+ 
+    "register":{
+        "register_title":"Maak een account",
+        "name_title":"Voor- en Achternaam",
+        "make_owner":"Maak beheerder",
+        "placeholder_title":"Voor - en achternaam",
+        "password:":"Wachtwoord",
+        "forgot_password":"Wachtwoord vergeten?",
+        "has_account":"Heeft u al een account?",
+        "has_account2":"Log in",
+        "Sign_up here":"Registeer hier",
+        "read_terms":"Ik ga akkoord met de <a href='/terms-and-conditions' className='terms_conditions_link'> Algemene Voorwaarden </a> en <a href='/privacy-policy' className='terms_conditions_link'> Privacybeleid </a>.",
+        "sign_up":"Registreren",
+        "make_page":"Start gratis pagina"
+
+
+
+    },
+    "Account":{
+        "title":"DIGITALE VERHALEN",
+        "start_new":"START NIEUW DIGITAAL VERHAAL",
+        "start_default_title":"Start een verhaal ",
+        "start_default_button":"Start Levenstijdlijn ",
+        "start_default_subtext":" Een digitaal verhaal dient als de ideale plaats om online foto's, video's en verhalen uit te wisselen met elkaar .",
+        "waiting_badge":" Afwachten toelating"
+    },
+    "QuestionsModal":{
+
+        "which_category":"Waarvoor wil je relivo gebruiken?",
+        "what_is_the_connection":"Wat is je connectie met",
+        "family":"Familie/Gezin",
+        "friends":"Vrienden",        
+        "job":"Job",
+        "hobby":"Hobby",
+        "title_name":"Voor- en Achternaam",
+        "placeholder_name":"Jan Janssens",
+        "media":"Media",
+        "record":"Opnemen",
+        "Verzenden":"Verzenden",
+        "gift":"Geschenk",
+        "wedding":"Huwelijk",
+        "pension":"Pensioen",
+        "myself":"Mezelf",
+        "next":"next",
+        "previous":"previous"
+
+
+
+    },
+    "MemoryModal":{
+        "create_memory":"Leg herinnering vast",
+        "title_memory":"Titel van herinnering",
+        "title_placeholder":"Titel...",
+        "loadmedia":"Laad media in",
+        "photo":"foto",        
+        "video":"Video",
+        "audio":"Audio",
+        "Need_inspiration":"Inspiratie nodig?",
+        "placeholder_name":"Jan Janssens",
+        "add media":"Media",
+        "tell_the_story":"Vertel over de herinnering",
+        "placeholder_story":"Verhaal...",
+        "date":"Datum van herinnering",
+        "category":"Categorie",
+        "on_timeline":"Op tijdlijn?",
+        "share_with":"Delen met",       
+        "date_of_memory":"Datum van herinnering"
+
+    },
+    "Settings":{
+        "control_title":"Alles eerst controleren?",
+        "dob":"Geboortedatum",
+        "dod":"Einddatum",
+        "welcome_message":"Korte welkomsboodschap",
+        "name_of_page":"Voor- en Achternaam"
+       
+    },
+    "ToolTips" :{
+        "renew_private_link":"Als u op deze knop drukt, genereert u een nieuwe link om direct toegang te krijgen tot de pagina. Genereer een nieuwe directe link wanneer ongewenste personen de vorige directe link hebben ontvangen"
+    },
+    "categories":{
+        "family":"Familie",
+        "friends":"Vrienden",
+        "sport":"Sport",
+        "youth":"Jeugd",
+        "work":"Job",
+        "hobby":"Hobby"
+    },
+    "share_possibilities":{
+        "friends_fam":"Vrienden en Familie",
+        "initmate_circle":"Intieme kring",
+        "and_me":" en mezelf"
+    },
+    "Error":{
+        "title":"Er is iets fout gelopen."
+    },
+
+
+    
+    "Header": {
+    
+            "title": "ALLE VERHALEN <br/>VEILIG BEWAARD",
+            "img": "img/landing_page/logo_aet_white.png",
+            "black_logo":"img/logos/logo_color.svg",
+            "flower_logo":"logo_color.svg",
+            "digitize":"false"
+
+    
+        },
+        "DigitizeHeader": {
+    
+            "title": "Herbeleef samen Herinneringen",
+            "img": "img/landing_page/logo_aet_white.png",
+            "black_logo":"img/logos/logo_color.svg",
+            "flower_logo":"logo_color.svg",
+            "digitize":"true"
+    
+        },
+    
+        "Main":{
+            "text":"Relivo is een <b> uniek geschenk </b> waar alle verhalen, anekdote's, foto's en video's samenkomen in een merci-boek en ditale tijdlijn. Met het delen van een beveiligde link worden unieke vragen gesteld om de mooie verhalen te helpen bovenhalen. De eerste 100 merci-boeken wordt alles <b>gratis</b> digitaal bewaard.",
+            "button":"start gratis"
+        },
+        "digitize":{
+            "text":"Relivo digitaliseert alles van foto, audio en videomateriaal. Alle media worden in een digitale herinneringsdoos geplaatst met toegang via een persoonlijke login. Alle herinneringen en verhalen gemakkelijk delen, herbeleven en bewaren. (extra optie: USB stick)",
+            "button":"Bereken prijs"
+        },    
+        "ebook_digitize":{
+            "text":"Wil je graag zelf starten met digitaliseren, ontvang dan gratis een 4 stappenplan die je op weg zet om zelf te foto's gratis te digitaliseren. ",
+            "button":"Ontvang jouw handleiding"
+        },
+        
+        "Pension" : {
+            "title": "Herinneringen voor altijd",
+            "paragraph": "Leer iemand kennen via de verhalen van familie en vrienden",
+            "img": "img/landing_page/logo_aet_white.png",
+            "black_logo":"img/logos/logo_color.svg",
+            "flower_logo":"logo_color.svg"
+        },
+        "Birthday" : {
+            "title": "Herinneringen voor altijd",
+            "paragraph": "Leer iemand kennen via de verhalen van familie en vrienden",
+            "img": "img/landing_page/logo_aet_white.png",
+            "black_logo":"img/logos/logo_color.svg",
+            "flower_logo":"logo_color.svg"
+        },
+        "Communie" : {
+            "title": "Herinneringen voor altijd",
+            "paragraph": "Leer iemand kennen via de verhalen van familie en vrienden",
+            "img": "img/landing_page/logo_aet_white.png",
+            "black_logo":"img/logos/logo_color.svg",
+            "flower_logo":"logo_color.svg"
+        },
+        "Steps":{
+            "step1":"/img/landing_page/aan_de_slag_1.png",
+            "step2":"/img/landing_page/aan_de_slag_2.png",
+            "step3":"/img/landing_page/aan_de_slag_3.png"
+    
+    
+        },
+    
+        "About_header":{
+            "title": "De twee Willem's ",
+            "subtitle": "achter Aeterna ",
+            "className":"intro_about"
+        
+        },
+        "Contact_header":{
+            "title": "Vertel ons hoe ",
+            "subtitle": "wij u kunnen helpen. ",
+            "className":"contact"
+    
+        
+        },    
+
+        "digitize_options":[
+            {
+                "img":"img/landing_page/digitize_service/foto.png",
+                "text":"Foto's",
+                "text_select":"Aantal Foto's"
+            },
+            {
+                "img":"img/landing_page/digitize_service/vhs.png",
+                "text":"Video's",
+                "text_select":"Aantal VHS of filmbanden"
+            },
+            {
+                "img":"img/landing_page/digitize_service/photoalbum.png",
+                "text":"Fotoboeken",
+                "text_select":"Aantal pagina's fotoboeken"
+            },
+            {
+                "img":"img/landing_page/digitize_service/audio.png",
+                "text":"Cassete's",
+                "text_select":"Aantal audio cassettes"
+            },
+            {
+                "img":"img/landing_page/digitize_service/vinyl.png",
+                "text":"Vinyl Platen",
+                "text_select":"Aantal Vinyl Platen"
+            },
+            {
+                "img":"img/landing_page/digitize_service/cds.png",
+                "text":"CD/DVD/Floppy",
+                "text_select":"Aantal CD/DVD/Floppy "
+            },
+    
+            {
+                "img":"img/landing_page/digitize_service/dia.png",
+                "text":"Dia's",
+                "text_select":"Aantal Dia's"
+            },
+            {
+                "img":"img/landing_page/digitize_service/letter.png",
+                "text":"Brieven / Documenten",
+                "text_select":"Aantal pagina's Brieven of documenten "
+            }
+        ],
+    
+        "EmailCollector":{
+        "title":"5 Tips om je levensverhaal te starten",
+        "text":"Vul je email in, en wij versturen je deze handleiding",
+        "button":"verzenden"
+        },
+
+        "EmailCollector_blog":{
+            "title":"4 stappenplan voor digitalisatie foto's",
+            "text":"Vul je email in, en wij versturen je deze handleiding via email",
+            "button":"verzenden"
+            },
+    
+
+    
+            "Contact": {
+                "address": "Antoon Viaenestraat 8, 8200 Brugge",
+                "phone": "+32 478 43 65 79",
+                "email": "info@relivo.be",
+                "btw":"BE0781.669.847",
+                "facebook": "https://www.facebook.com/relivo.be/",
+                "instagram": "https://www.instagram.com/relivo_be/",
+                "youtube": "https://www.youtube.com/channel/UCO-wHCOjU0kGi1Rv6RkL34w",
+                "linkedin": "https://www.linkedin.com/company/relivo",
+                "whatsapp":"https://wa.me/32478436579"
+            },
+        "Features": {
+            "img": "img/landing_page/collect_icon.png",
+            "hoofdpagina": "img/screenshots_pages/hoofdpagina.png",
+            "herinneringen": "img/screenshots_pages/herinneringen.png",      
+            "gallerij": "img/screenshots_pages/gallerij.png",
+            "condolaties": "img/screenshots_pages/condolaties.png",
+            "opa_willem":"img/screenshots_pages/opa_willem.png"
+    
+        },
+        "Features_blocks":{
+            "private":{
+                "main_title":"Privé",
+                "sub_title":"Delen",
+                "text":"Je hebt volledige controle over wie welke herinneringen kan zien. Alle herinneringen blijven op een veilige plek en kunnen op elk moment aangevuld en gewijzigd worden. ",
+                "img":"/img/landing_page/prive_delen.png",
+                "type":"img"
+    
+            },
+            "digital_service":{
+                "main_title":"Digitaliseer je",
+                "sub_title":" oude foto's",
+                "text":"Op jouw vraag komt een IT-begeleider langs om je te helpen bij het digitaliseren van oude foto's, cassettes, CD's en DVD's. Al je herinneringen blijven voor altijd bewaard voor vrienden en familie.",
+                "img":"/img/landing_page/box_old_images.jpg",
+                "type":"img",
+                "button":"Digitalisatie Boeken",
+                "button_link":"/digitaliseren"
+                
+    
+            },
+            "Partnership":{
+    
+               "main_title":"Partner",
+                "sub_title":"worden",
+                "text":"Bent u een organisatie die mensen helpt in rouw, verlies of verwerking van moeilijk tijden. Laat ons dan samenwerken om mensen te helpen met hun nalatenschap en herinneringen te vereeuwigen.",
+                "img":"/img/landing_page/partner_main.webp",
+                "type":"img",
+                "button": "Partner worden ",
+                "button_link":"/register-partners"
+                
+    
+            },
+      
+            "timeline":{
+                    "main_title":"persoonlijke",
+                    "sub_title":"tijdlijn",
+                    "text":"Alle herinneringen worden automatisch in chronologische volgorde geplaatst. Zo verandert een reeks van losse herinneringen in een waar levensverhaal.",
+                    "img":"/img/landing_page/feature_timeline.png",
+                    "type":"img"
+    
+        
+                },
+            "last_message":{
+           
+                    "main_title":"Laatste",
+                    "sub_title":"boodschappen",
+                    "text":"Je kunt persoonlijke berichten achterlaten voor je nabestaanden en geliefden. Op die manier ben je aanwezig bij je dierbaren als je er fysiek niet meer bij kunt zijn.",                
+                    "img":"/videos/last_message.mp4",
+                    "type":"video"
+                },
+            "digitize_step_1":{
+           
+                    "main_title":"Stap 1",
+                    "sub_title":"Sorteer",
+                    "text":"Bereid en sorteer al je foto’s, films, audiofragmenten, brieven, fysieke documenten en andere voor. Hierdoor kunnen wij gestructureerd aan de slag.",
+                    "img":"/img/landing_page/sort_images.jpg",
+                    "type":"img"
+                },
+            "digitize_step_2":{
+           
+                    "main_title":"Stap 2",
+                    "sub_title":"Afspraak maken",
+                    "text":"Vul het invulformulier met je persoonlijke gegevens en de media dat je graag wilt digitaliseren. Wij contacteren je met de prijs en spreken een datum af. De betaling wordt gedaan na de digitalisatie dienst.",
+                    "img":"/img/landing_page/calender.jpg",
+                    "type":"img"
+                },
+            "digitize_step_3":{
+           
+                    "main_title":"Stap 3",
+                    "sub_title":"Digitalisatie",
+                    "text":"Wij halen je foto's, cassettes, CD's/DVD's en andere media op bij je thuis. In ongeveer 2 weken wordt de digitalisatie voltooid,en de herinneringen worden teruggebracht samen met een USB en een digitaal levensverhaal voor 1 jaar online. Bij de aflevering geven wij een woordje uitleg over het digitaal levensverhaal indien nodig.",
+                    "img":"/img/landing_page/old_man_computer.jpg",
+                    "type":"img"
+                }
+            ,"partner_step_1":{
+           
+                    "main_title":"Stap 1",
+                    "sub_title":"Ophalen",
+                    "text":"Aeterna haalt de foto's, video's, fotoboeken en veel meer op bij de partner. Deze herinneringen worden gedigitaliseerd aan de hoogste kwaliteit.  ",
+                    "img":"/img/landing_page/box_old_images.jpg",
+                    "type":"img"
+                },
+            "partner_step_2":{
+           
+                    "main_title":"Stap 2",
+                    "sub_title":"Selecteer",
+                    "text":"De familie en partner ontvangt alle digitale media waaruit gekozen kan worden om een mooiere begrafenis samentestellen. Vrienden en kennissen krijgen oook de toestemming om verhalen en herinneringen toe te voegen tot het digitale levensvehaal. Nu kan een veel persoonlijkere dienst sneller en gemakkelijker samengesteld worden.",
+                    "img":"/videos/mockup_selection.mp4",
+                    "type":"video"
+                },
+            "partner_step_3":{
+           
+                    "main_title":"Stap 3",
+                    "sub_title":"Herbeleef",
+                    "text":"Het digitale levensverhaal komt tot leven en blijft voor altijd bewaard. Familie en vrienden behouden de verhalen en herinneringen nu voor altijd dichtbij. Het nalatenschap kan ook gekoppeld worden aan een fysieke locatie door een QR-code in een herdenkingsteen.",
+                    "img":"/videos/mockup_relive.mp4",
+                    "type":"video"
+                }
+                
+    
+         
+        },
+        "About_us":{
+            "lannoye":{
+                "sub_title":"Willem L.",
+                "full_name":"Co-founder Relivo",
+                "text":"Mijn mama werd 50 jaar tijdens de coronacrisis” vertelt Willem Lannoye. “Omdat we geen groot feest konden geven, heeft mijn papa al mijn mama haar vrienden gevraagd om een filmpje voor haar verjaardag te maken. Uiteindelijk stond mijn whatsapp-inbox en mijn papa’s email vol met filmpjes.  Daarna moesten we die allemaal samen brengen. Er kroop daar heel wat werk in. Mijn mama was overweldigd door al de mooie boodschappen.  Ze had tranen in haar ogen en vertelde dat ze dit cadeau nooit meer zal vergeten, met nog een traantje in haar ogen. Een tijdje later bedacht ik samen met Willem Himpe een manier om dat hele proces sneller en makkelijker te maken. Zodat iedereen het meest persoonlijke cadeau ooit kan geven. Zo  is Relivo ontstaan",            
+                "img":"/img/team/team_lannoye.jpg"
+    
+            },
+            "maite":{
+                "sub_title":"Maité",
+                "full_name":"The Ambassador",
+                "text":"Ik was negen jaar toen mijn mama overleed aan borstkanker. Ze liet mij en mijn zus een kistje vol met foto’s van uitstapjes en reizen na samen met een dagboek van haar laatste weken. Na elf jaar vormt dit kistje op moeilijke dagen nog steeds een grote troost, een mooie herinnering aan de sterke vrouw die mijn mama was. Ik besef natuurlijk dat ik heel veel geluk heb gehad dat ik op deze manier afscheid heb kunnen nemen en dat dat niet voor iedereen zo vanzelfsprekend is. We kennen allemaal wel iemand die overleden is.  De grote kracht van Aeterna is dat ze mooie herinneringen levendig willen houden. Vanuit mijn persoonlijke ervaring heb ik dan ook een extra drijfveer om iets waardevols aan te bieden. Het idee van het herinneringskistje dat mijn moeder me naliet, wordtin een modern jasje gestoken metde mogelijkheid om bijvoorbeeld het geluid van de stem op te slaan. Iets wat ik zelf heel erg mis.",
+                "img":"/img/team/mai_head.png"
+    
+            },"himpe":{
+                "sub_title":"Willem H.",
+                "full_name":"Co-founder Relivo",
+                "text":"Mijn oma was jarig, en ik wou een uniek geschenk geven dat ze niet rap zou vergeten. We hebben de link rondgestuurd naar familie en vrienden om verhalen van vroeger. Vond het super leuk om de verhalen van vroeger te horen over mijn oma. En mijn oma was verrast hoeveel mensen verhalen gedeeld hadden. Zal nooit vergeten hoe gelukkig mijn oma gereageerd had.",  
+                "img":"/img/team/team_himpe.jpg"
+    
+            }
+        
+        
+        },
+        "General_information":{
+            "main_title":"AETERNA",
+            "sub_title":"VOOR ALTIJD",
+            "text_first":"Aeterna is een online platform waar je intieme herinneringen bijhoudt van dierbare mensen om je heen. Om zo herinneringen in leven te houden voor altijd.",
+            "text_second":"Wij willen mensen helpen bij het verzamelen van foto's, video's en verhalen. Zo kan je deze mooie momenten blijven herbeleven. ",
+            "img_right":"/img/landing_page/feature_family.jpg",
+            "img_left":"/img/landing_page/feature_album.jpg"
+        
+          },
+          "MainFeature":{
+    
+          },
+          
+        
+        "Verhalen":[{
+    
+            "maite": "Ik ben mijn mama verloren toen ik 9 jaar was. Zij heeft mij een prachtige herinneringendoos achtergelaten, met veel intieme foto's en teksten die van ongeschatte waarde zijn. Maar soms zijn deze herinneringen niet genoeg. Een grote angst is dat ik mijn mama haar stem vergeet. Daarom ben ik met Aeterna begonnen, om andere mensen een makkelijke oplossing te bieden voor het delen en bewaren van herinneringen voor altijd.",
+            "lannoye":"Omdat ik geloof dat elke mens unieke ervaringen heeft meegemaakt, vind ik het jammer dat deze gebeurtenissen na de dood vaak vergeten worden. Met ons platform kunnen we niet enkel deze verhalen voor eeuwig bewaren, maar ook hoe een persoon zijn stem en lach klinkt.",
+            "himpe":"Ons platform gaat mensen helpen bij het delen van herinneringen met vrienden en familie. Door gebruik te maken van digitale toestellen die iedereen altijd bij de hand heeft zullen al deze herinnneringen dicht bij de hand zijn. "
+        }],
+
+        "blog":{
+            "share_article":"Deel dit artikel:"
+
+        }
+    
+            
+    }
+    

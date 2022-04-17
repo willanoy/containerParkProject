@@ -1,0 +1,8 @@
+query Container($containerId: String!) {
+  container(containerId:$containerId) {
+    id
+    material_type
+    container_type
+  }
+  
+}

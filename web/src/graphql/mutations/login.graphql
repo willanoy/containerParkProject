@@ -1,0 +1,7 @@
+mutation Login($ContainerParkId: String!, $password: String!) {
+  
+login(ContainerParkId: $ContainerParkId, password: $password) #different way than register.graphql
+ 
+  
+  
+}

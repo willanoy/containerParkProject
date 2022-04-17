@@ -1,0 +1,4 @@
+node_modules 
+#Otherwise node modules from windows will also be copied into the container
+#we only need the modules used by the OS of the container
+npm-debug.log

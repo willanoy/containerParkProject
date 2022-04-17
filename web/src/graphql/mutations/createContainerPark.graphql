@@ -1,0 +1,8 @@
+mutation CreateContainerPark($input: ContainerParkInput!, $password:String!) {
+  createContainerPark(input: $input, password:$password) {
+    id
+    name
+    location
+    intercommunale
+  }
+}

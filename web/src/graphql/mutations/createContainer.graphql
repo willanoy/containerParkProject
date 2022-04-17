@@ -1,0 +1,7 @@
+mutation CreateContainer($input: ContainerInput!) {
+  createContainer(input: $input) {
+    id
+    material_type
+    container_type
+  }
+}
