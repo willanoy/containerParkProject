@@ -39,7 +39,7 @@ export class ContainerPark extends BaseEntity {
     tokenVersion: number;
 
     @Field(() => [Container])
-    @OneToMany(() => Container, park => park.container)
+    @OneToMany(() => Container, container => container.containerPark)
     containers: Container[];
 
     @Field(() => String)

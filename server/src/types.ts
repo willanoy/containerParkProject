@@ -18,6 +18,10 @@ export enum WASTE_TYPE {
   GROENAFVAL,
   GLAS,
   GFT,
+  KLEIN_GEVAARLIJK_AFVAL,
+  BOUWAFVAL,
+  KERAMIEK,
+  
 }
 
 export enum CONTAINER_TYPE {
